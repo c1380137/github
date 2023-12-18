@@ -5,7 +5,7 @@ public class HelloWord {
 			System.out.println("123");
 			System.out.println("456");
 			System.out.println("upodate");
-            System.out.println("456");
+            System.out.println("555");
             System.out.println("666");
 		}
 }
